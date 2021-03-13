@@ -1,5 +1,5 @@
 <p align="center">
-![enter image description here](./logo.png)
+<img src="logo.png"/>
 </p>
 
 # Hotel Whale
@@ -24,7 +24,7 @@ An increasing number of travelers are relying solely on online reservations in o
 
 ## Screenshots
 <p align="center">
-![Example screenshot](./screenshot.png)
+<img src="screenshot.png"/>
 <p>
 
 ## Technologies
