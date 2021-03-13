@@ -1,0 +1,85 @@
+2021-03-06T17:23:58+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\hotel-whale\wp in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
+2021-03-06T17:24:10+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\hotel-whale\wp in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
+2021-03-06T17:24:14+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\hotel-whale\wp in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
+2021-03-06T17:24:22+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\hotel-whale\wp in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
+2021-03-06T17:24:28+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-cron.php(44): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
+2021-03-06T17:24:28+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\hotel-whale\wp in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
+2021-03-06T17:24:43+00:00 CRITICAL Uncaught Error: Call to undefined function diaz_cs_get_option() in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php:74
+Stack trace:
+#0 C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php(52): DTPortfolioPostType->createPostType()
+#1 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(287): DTPortfolioPostType->dt_init('')
+#2 C:\xampp\htdocs\hotel-whale\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\hotel-whale\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\hotel-whale\wp-settings.php(557): do_action('init')
+#5 C:\xampp\htdocs\hotel-whale\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\hotel-whale\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\hotel-whale\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\hotel-whale\wp in C:\xampp\htdocs\hotel-whale\wp-content\plugins\designthemes-core-features\custom-post-types\dt-portfolio-post-type.php on line 74
+
